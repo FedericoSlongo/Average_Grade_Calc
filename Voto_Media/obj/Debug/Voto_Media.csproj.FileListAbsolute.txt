@@ -1,0 +1,7 @@
+C:\Users\fslongo\source\repos\Voto_Media\Voto_Media\bin\Debug\Voto_Media.exe.config
+C:\Users\fslongo\source\repos\Voto_Media\Voto_Media\bin\Debug\Voto_Media.exe
+C:\Users\fslongo\source\repos\Voto_Media\Voto_Media\bin\Debug\Voto_Media.pdb
+C:\Users\fslongo\source\repos\Voto_Media\Voto_Media\obj\Debug\Voto_Media.csproj.AssemblyReference.cache
+C:\Users\fslongo\source\repos\Voto_Media\Voto_Media\obj\Debug\Voto_Media.csproj.CoreCompileInputs.cache
+C:\Users\fslongo\source\repos\Voto_Media\Voto_Media\obj\Debug\Voto_Media.exe
+C:\Users\fslongo\source\repos\Voto_Media\Voto_Media\obj\Debug\Voto_Media.pdb
